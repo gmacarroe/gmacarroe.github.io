@@ -3,24 +3,24 @@ html {
     background-color: whitesmoke;
 }
 
-#headerPrincipal {
+.menu {
+    list-style: none;
+    padding: 0;
+    width: 100%;
+    margin: auto;
     text-align: center;
 }
 
-#menuHeader {
-    list-style-type: none;
-}
-
-#menuHeader a {
-    margin: 20px;
+menu li a {
     text-decoration: none;
-}
+    padding: 10px;
+} 
 
-#menuHeader a:hover {
+menu li a:hover {
     color: grey;
 }
 
-h1, h2, #menuHeader a {
+h1, h2, menu li a {
     color: rgb(26, 26, 26);
     text-align: center;
 }
@@ -29,12 +29,12 @@ h1 {
     font-size: 54px;
     font: bold;
     text-align: center;
-    margin-bottom: -5px;
-    margin-top: -15px;
+    margin-bottom: 0px;
+    margin-top: 0px;
 }
 
 h2 {
     font-size: 26px;
     font: italic;
-    margin-top: -5px;
+    margin-top: 0px;
 }
