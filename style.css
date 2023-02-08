@@ -19,7 +19,7 @@ header {
     margin: 30px;
 }
 
-h1, h2 {
+h1, h2, h3 {
     text-align: center;
 }
 
@@ -34,6 +34,11 @@ h2 {
     font-size: 34px;
     font: italic;
     margin-top: 0px;
+}
+
+h3 {
+    font-size: 24px;
+    font: bold;
 }
 
 /* Animista.net */
