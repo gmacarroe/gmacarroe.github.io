@@ -3,30 +3,20 @@ html {
     background-color: rgb(26, 26, 26);
 }
 
-header, #menu li a {
+header {
     color: beige;
 }
 
-#menu ul {
-    list-style-type: none;
-    text-align: center;
-    margin-left: -35px;
+#pages {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
-#menu li {
-    display: flexbox;
-    text-align: center;
-    padding: 15px;
-    border: 2px solid white;
+#pages div {
+    border: 2px solid beige;
+    border-radius: 10px;
     margin: 30px;
-}
-
-#menu li a {
-    text-decoration: none;
-}
-
-#menu li a:hover {
-    color: grey;
 }
 
 h1, h2 {
@@ -34,14 +24,14 @@ h1, h2 {
 }
 
 h1 {
-    font-size: 54px;
+    font-size: 86px;
     font: bold;
     margin-bottom: 0px;
     margin-top: 0px;
 }
 
 h2 {
-    font-size: 26px;
+    font-size: 34px;
     font: italic;
     margin-top: 0px;
 }
