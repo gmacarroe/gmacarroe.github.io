@@ -14,9 +14,11 @@ header, #menu li a {
 }
 
 #menu li {
-    display: inline;
+    display: flexbox;
     text-align: center;
     padding: 15px;
+    border: 2px solid white;
+    margin: 30px;
 }
 
 #menu li a {
