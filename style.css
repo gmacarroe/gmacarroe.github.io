@@ -3,25 +3,29 @@ html {
     background-color: whitesmoke;
 }
 
+header, li a {
+    color: rgb(26, 26, 26);
+}
+
 .menu {
     list-style: none;
     padding: 0;
     width: 100%;
     margin: auto;
+    display: inline-flex;
     text-align: center;
 }
 
-menu li a {
+li a {
     text-decoration: none;
     padding: 10px;
 } 
 
-menu li a:hover {
+li a:hover {
     color: grey;
 }
 
-h1, h2, menu li a {
-    color: rgb(26, 26, 26);
+h1, h2 {
     text-align: center;
 }
 
