@@ -1,0 +1,40 @@
+html {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: whitesmoke;
+}
+
+#headerPrincipal {
+    text-align: center;
+}
+
+#menuHeader {
+    list-style-type: none;
+}
+
+#menuHeader a {
+    margin: 20px;
+    text-decoration: none;
+}
+
+#menuHeader a:hover {
+    color: grey;
+}
+
+h1, h2, #menuHeader a {
+    color: rgb(26, 26, 26);
+    text-align: center;
+}
+
+h1 {
+    font-size: 54px;
+    font: bold;
+    text-align: center;
+    margin-bottom: -5px;
+    margin-top: -15px;
+}
+
+h2 {
+    font-size: 26px;
+    font: italic;
+    margin-top: -5px;
+}
