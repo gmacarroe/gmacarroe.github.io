@@ -1,5 +1,6 @@
 html {
     font-family: 'Lucida Sans Console', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(26 26 26);
 }
 
 header {
@@ -338,13 +339,13 @@ p {
         background: rgb(26 26 26);
       }
       25% {
-        background: rgb(55, 7, 7);
+        background: rgb(43, 5, 5);
       }
       50% {
-        background: rgb(92, 21, 10);
+        background: rgb(56, 13, 6);
       }
       75% {
-        background: rgb(61, 7, 7);
+        background: rgb(43, 5, 5);
       }
       100% {
         background: rgb(26 26 26);
@@ -356,13 +357,13 @@ p {
         background: rgb(26 26 26);
       }
       25% {
-        background: rgb(55, 7, 7);
+        background: rgb(43, 5, 5);
       }
       50% {
-        background: rgb(92, 21, 10);
+        background: rgb(56, 13, 6);
       }
       75% {
-        background: rgb(61, 7, 7);
+        background: rgb(43, 5, 5);
       }
       100% {
         background: rgb(26 26 26);
