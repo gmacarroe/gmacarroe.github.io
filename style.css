@@ -7,16 +7,16 @@ header {
     color: beige;
 }
 
-#pages {
+#pages1, #pages2 {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
 }
 
-#pages div {
+#pages1 div, #pages2 div {
     border: 2px solid beige;
     border-radius: 10px;
-    margin: 30px;
+    margin: 35px;
 }
 
 h1, h2, h3 {
@@ -318,8 +318,8 @@ p {
   
 
 .text-flicker-in-glow {
-	-webkit-animation: text-flicker-in-glow 5s linear both;
-	        animation: text-flicker-in-glow 5s linear both;
+	-webkit-animation: text-flicker-in-glow 3s linear both;
+	        animation: text-flicker-in-glow 3s linear both;
 }
 
 /* ----------------------------------------------
