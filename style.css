@@ -42,13 +42,16 @@ h3 {
     margin-top: -35px;
 }
 
-
-
 p {
     margin: 50px;
     text-align: justify;
     text-justify: inter-word;
     color: beige;
+}
+
+.floatLeft {
+  float: left;
+  margin: 10px;
 }
 
 /* Animista.net */
