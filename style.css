@@ -59,6 +59,10 @@ footer {
   justify-content: right;
 }
 
+footer div {
+  margin: 5px;
+}
+
 /* Animista.net */
 
 /* ----------------------------------------------
