@@ -53,9 +53,10 @@ p {
     color: beige;
 }
 
-footer div {
-  text-align: right;
-  margin-right: 5px;
+footer {
+  display: inline-flex;
+  flex-wrap: wrap;
+  justify-content: right;
 }
 
 /* Animista.net */
