@@ -541,21 +541,21 @@ input[type=submit]:hover {
 }
 
 .fade-in10 {
-	-webkit-animation: fade-in 5s cubic-bezier(0.390, 0.575, 0.565, 1.000) 35s both;
-	        animation: fade-in 5s cubic-bezier(0.390, 0.575, 0.565, 1.000) 35s both;
+	-webkit-animation: fade-in 3s cubic-bezier(0.390, 0.575, 0.565, 1.000) 4s both;
+	        animation: fade-in 3s cubic-bezier(0.390, 0.575, 0.565, 1.000) 4s both;
 }
 
 .fade-in12 {
-	-webkit-animation: fade-in 5s cubic-bezier(0.390, 0.575, 0.565, 1.000) 38s both;
-	        animation: fade-in 5s cubic-bezier(0.390, 0.575, 0.565, 1.000) 38s both;
+	-webkit-animation: fade-in 3s cubic-bezier(0.390, 0.575, 0.565, 1.000) 6s both;
+	        animation: fade-in 3s cubic-bezier(0.390, 0.575, 0.565, 1.000) 6s both;
 }
 
 .fade-in14 {
-	-webkit-animation: fade-in 5s cubic-bezier(0.390, 0.575, 0.565, 1.000) 41s both;
-	        animation: fade-in 5s cubic-bezier(0.390, 0.575, 0.565, 1.000) 41s both;
+	-webkit-animation: fade-in 3s cubic-bezier(0.390, 0.575, 0.565, 1.000) 8s both;
+	        animation: fade-in 3s cubic-bezier(0.390, 0.575, 0.565, 1.000) 8s both;
 }
 
 .fade-in16 {
-	-webkit-animation: fade-in 5s cubic-bezier(0.390, 0.575, 0.565, 1.000) 44s both;
-	        animation: fade-in 5s cubic-bezier(0.390, 0.575, 0.565, 1.000) 44s both;
+	-webkit-animation: fade-in 3s cubic-bezier(0.390, 0.575, 0.565, 1.000) 10s both;
+	        animation: fade-in 3s cubic-bezier(0.390, 0.575, 0.565, 1.000) 10s both;
 }
