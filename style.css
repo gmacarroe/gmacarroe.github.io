@@ -4,7 +4,12 @@ html {
 }
 
 header {
-    color: beige;
+  color: beige;
+}
+
+header div {
+  margin-bottom: -65px;
+  text-align: right;
 }
 
 body {
