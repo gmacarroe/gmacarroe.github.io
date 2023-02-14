@@ -46,7 +46,7 @@ Managed the commercial and technical aspects of a new department (Woorbel - whee
 
 2013 - 2017
 Cocktail bartender
-Gintònic.cat (Berga, Barcelona)
+Gintònic.cat (Berga, Barcelona) 
 Cocktail bartender at a company that specializes in luxury events and high-end events for large companies (worked at private events for Facebook, Huawei, Audi, VIP weddings, etc.).
 Provided excellent customer service, followed protocols, and presented a good image.
 Possessed bartender skills.
