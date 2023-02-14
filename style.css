@@ -68,6 +68,16 @@ footer div {
   margin: 5px;
 }
 
+.grid-conatiner {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  grid-gap: 1em;
+}
+
+.imatges-about {
+  width: 300px;
+}
+
 /* Animista.net */
 
 /* ----------------------------------------------
@@ -433,5 +443,5 @@ footer div {
 .tilt-in-tl {
 	-webkit-animation: tilt-in-tl 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
 	        animation: tilt-in-tl 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
-          float: left; width: 300px; margin-right: 20px; margin-bottom: 20px;
+          float: left; height: 265px; margin-right: 20px; margin-bottom: 20px;
         }
