@@ -5,11 +5,13 @@ html {
 
 header {
   color: beige;
+  margin-top: 10px;
 }
 
 header div {
   margin-bottom: -65px;
   text-align: right;
+  margin-right: 10px;
 }
 
 body {
@@ -51,8 +53,8 @@ h3 {
     font: bold;
 }
 
-p {
-    margin: 50px;
+.p-about {
+    margin: 30px;
     text-align: justify;
     text-justify: inter-word;
     color: beige;
@@ -66,7 +68,7 @@ footer {
 }
 
 footer div {
-  margin: 5px;
+  margin: 10px;
 }
 
 .grid-container {
